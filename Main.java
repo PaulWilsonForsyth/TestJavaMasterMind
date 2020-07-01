@@ -3,6 +3,6 @@ class Main {
     MMGame mmGame = new MMGame();
     mmGame.startRunning();
 
-    System.out.println("DONE!");
+    System.out.println("DONE !");
   }
 }
